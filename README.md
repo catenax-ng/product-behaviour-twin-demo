@@ -1,7 +1,3 @@
 # Behaviour Twin
 
-
-<video controls>
-  <source src="videos/SampleVideo_1280x720_1mb.mp4" type="video/mp4">
-</video>
-
+GitHub-Pages for demonstration purpose in branch [event](https://github.com/catenax-ng/product-behaviour-twin-demo/tree/event).
